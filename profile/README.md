@@ -1,6 +1,6 @@
 <center>
 <h1>Bluesense</h1>
-<img src="./Bluesense cover.png" alt="cover">
+<img src="https://raw.githubusercontent.com/BlueSense-by-ByteTeam/.github/main/profile/Bluesense%20cover.png" alt="cover">
 <p>
 Supporting Sustainable Development Goals, particularly in clean water and sanitation.
 </p>
@@ -10,7 +10,7 @@ Supporting Sustainable Development Goals, particularly in clean water and sani
 
 Bluesense present to support sustainable development goals, particularly in clean water and sanitation.
 
-![mockup app](./phone.png)
+![mockup app](https://raw.githubusercontent.com/BlueSense-by-ByteTeam/.github/main/profile/phone.png?raw=true)
 
 This Application also provides services for monitoring water quality, so that people or user get full access to water quality and avoid using unsuitable water.
 In addiction, there are also features that will help users get access to clean water trough the use of water filters and water providers
@@ -27,22 +27,22 @@ Build close collaboration with water suppliers and water filter manufacturers to
 
 <div style="display: flex; gap: 32px">
     <center>
-        <img src="./septa.png" style="border-radius: 100px" width="68" />
+        <img src="https://raw.githubusercontent.com/BlueSense-by-ByteTeam/.github/main/profile/septa.png?raw=true" style="border-radius: 100px" width="68" />
         <h3>Septa Alfauzan</h3>
         <h3>Hacker 1</h3>
     </center>
     <center>
-    <img src="./roni.png" style="border-radius: 100px" width="68" />
+    <img src="https://raw.githubusercontent.com/BlueSense-by-ByteTeam/.github/main/profile/roni.png?raw=true" style="border-radius: 100px" width="68" />
         <h3>Roni Ragil Iman Khoirul</h3>
         <h3>Hacker 2</h3>
     </center>
     <center>
-    <img src="./lita.png" style="border-radius: 100px" width="68" />
+    <img src="https://raw.githubusercontent.com/BlueSense-by-ByteTeam/.github/main/profile/lita.png?raw=true" style="border-radius: 100px" width="68" />
         <h3>Janualita Yanabilah</h3>
         <h3>Hipster</h3>
     </center>
     <center>
-    <img src="./im.png" style="border-radius: 100px" width="68" />
+    <img src="https://raw.githubusercontent.com/BlueSense-by-ByteTeam/.github/main/profile/im.png?raw=true" style="border-radius: 100px" width="68" />
         <h3>Siti Imro</h3>
         <h3>Hustler</h3>
     </center>
