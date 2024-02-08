@@ -31,16 +31,19 @@ Build close collaboration with water suppliers and water filter manufacturers to
         <h3>Septa Alfauzan</h3>
         <h3>Hacker 1</h3>
     </center>
+    <br/>
     <center>
     <img src="https://raw.githubusercontent.com/BlueSense-by-ByteTeam/.github/main/profile/roni.png?raw=true" style="border-radius: 100px" width="68" />
         <h3>Roni Ragil Iman Khoirul</h3>
         <h3>Hacker 2</h3>
     </center>
+    <br/>
     <center>
     <img src="https://raw.githubusercontent.com/BlueSense-by-ByteTeam/.github/main/profile/lita.png?raw=true" style="border-radius: 100px" width="68" />
         <h3>Janualita Yanabilah</h3>
         <h3>Hipster</h3>
     </center>
+    <br/>
     <center>
     <img src="https://raw.githubusercontent.com/BlueSense-by-ByteTeam/.github/main/profile/im.png?raw=true" style="border-radius: 100px" width="68" />
         <h3>Siti Imro</h3>
